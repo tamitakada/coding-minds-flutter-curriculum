@@ -1,1 +1,0 @@
-# coding-minds-flutter-curriculum
